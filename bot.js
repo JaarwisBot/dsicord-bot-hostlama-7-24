@@ -15,7 +15,7 @@ client.on('message', msg => {
   }
   
    if (msg.content === 'sa') { 
-    msg.reply(  'As güzel kardeşim hoş geldin ben JARWİS :D  ');
+    msg.reply(  'As güzel kardeşim hoş geldin 50 kr vermeyi unutma :D   ');
   }
   
   if (msg.content === '!hoşgeldinresim') { 
