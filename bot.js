@@ -40,6 +40,11 @@ client.on('message', msg => {
   }else {
   msg.channel.send('Bunu yapmana izin veremem!');
   }	
+	  
+	  
+  }	  
+	  
+	  
 	
 
 client.login(process.env.Bot_Token);
